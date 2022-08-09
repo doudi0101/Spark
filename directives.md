@@ -24,6 +24,9 @@
 
 ![image](https://user-images.githubusercontent.com/73080397/183573480-669255cc-5c33-47c3-b153-665d05dec32e.png)
 
-- Pour créer une visualisation, exécutez votre requête retournant un tableau et cliquer sur l'icône de graphiques:
+- Pour créer une visualisation, exécutez votre requête retournant un tableau, cliquer sur l'icône de graphiques, choisir le type de graphique souhaité et ajuster les paramètres dans plot options
+
+![image](https://user-images.githubusercontent.com/73080397/183577193-61267e3c-cee0-469a-b309-8c7e7d2da9c1.png)
+
 
 
